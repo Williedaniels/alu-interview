@@ -1,3 +1,1 @@
-Minimum operations
-
 Alu-interview
